@@ -23,7 +23,7 @@ using python's GUI Library Tkinter.
 
  -Easy to understand and interactable UI 
  
-  Big labeled  buttons  and a detailesd tree view + the ability to display images.
+  Big labeled  buttons  and a detailed tree view + the ability to display images.
  
 
 ### Installation
