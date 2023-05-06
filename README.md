@@ -1,6 +1,6 @@
 # Inventory-Management-System
 
-## Desktop Application for managing an inventory of a jewlery store named "Richesse" (means wealth in french).
+## Desktop Application for managing an inventory of a jewelry store named "Richesse" (means wealth in french).
 
 This Desktop app was built in python , uses MySQL  to have access to a secure DataBase  and the GUI was made
 using python's GUI Library Tkinter.
@@ -28,7 +28,7 @@ using python's GUI Library Tkinter.
 
 ### Installation
 
-I've provided a ready to go database to use for the testing ( and a directory full of images , i do not own any of the jewlery and don't claim to use it for any financial operation , the images serve as a prop ), import it into MySQL Workbench as the name of richesseDB
+I've provided a ready to go database to use for the testing ( and a directory full of images , i do not own any of the jewelry and don't claim to use it for any financial operation , the images serve as a prop ), import it into MySQL Workbench as the name of richesseDB
 and don't forget to change the database's connection credentials ! 
 
 ![image](https://user-images.githubusercontent.com/81326835/236474738-fb451f92-afe4-4860-a30a-1bfc6542cc29.png)
